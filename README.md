@@ -1,8 +1,8 @@
 ## Open CAN Box - Hardware repository
 
-### Open CAN Box is the USB to CAN 2.0 adapter based on LPC1764 MCU.
+Open CAN Box is the USB to CAN 2.0 adapter based on LPC1764 MCU.
 
-Characteristics of Open CAN Box 1 version:
+### Characteristics of Open CAN Box 1 version:
 
 * PCB 80x90 mm
 

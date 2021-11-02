@@ -5,12 +5,18 @@
 Characteristics of Open CAN Box 1 version:
 
 * PCB 80x90 mm
+
 * DSUB-9M x2
+
 * microUSB connector
+
 * FT232RL
+
 * TI ISO1050 Galvanically isolated CAN transceivers x2
 
-![](.\images\opencanbox-1.png)
+  ![](images/opencanbox-1.png)
+
+
 
 ### Characteristics of Open CAN Box 1M version:
 
@@ -24,4 +30,4 @@ Characteristics of Open CAN Box 1 version:
 
 * Mornsun TDH541SCANH Galvanically isolated CAN transceivers x2
 
-  ![image-20211102090454273](.\images\opencanbox-1m.png)
+  ![image-20211102090454273](images/opencanbox-1m.png)
